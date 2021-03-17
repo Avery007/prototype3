@@ -142,3 +142,104 @@ System memory in use after: 156.4 MB.
 Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3891.
 Total: 9.123600 ms (FindLiveObjects: 0.544100 ms CreateObjectMapping: 0.247300 ms MarkObjects: 4.187600 ms  DeleteObjects: 4.141900 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 609.733628 seconds.
+  path: Assets/mouseOver.cs
+  artifactKey: Guid(8a3bec60cf0f01d47a78fa679023e0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouseOver.cs using Guid(8a3bec60cf0f01d47a78fa679023e0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f21db12080a2a8ae057c066b488a0a7') in 0.262466 seconds
+  Import took 0.275643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 201.675235 seconds.
+  path: Assets/mouseOver.cs
+  artifactKey: Guid(8a3bec60cf0f01d47a78fa679023e0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouseOver.cs using Guid(8a3bec60cf0f01d47a78fa679023e0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb052508db52c99c84c03632454d4bdb') in 0.015607 seconds
+  Import took 0.026392 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002597 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.764 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3216 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.1 MB.
+System memory in use after: 156.4 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3893.
+Total: 8.220500 ms (FindLiveObjects: 0.883200 ms CreateObjectMapping: 0.192800 ms MarkObjects: 3.490400 ms  DeleteObjects: 3.650100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004633 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.583 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3216 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.1 MB.
+System memory in use after: 156.5 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3895.
+Total: 8.736200 ms (FindLiveObjects: 0.699800 ms CreateObjectMapping: 0.176500 ms MarkObjects: 3.934600 ms  DeleteObjects: 3.923600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 305.040182 seconds.
+  path: Assets/mouseOver.cs
+  artifactKey: Guid(8a3bec60cf0f01d47a78fa679023e0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouseOver.cs using Guid(8a3bec60cf0f01d47a78fa679023e0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60852ba7bf4848980e44b70931dacc2f') in 0.020508 seconds
+  Import took 0.038434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130267 seconds.
+  path: Assets/mouseOver.cs
+  artifactKey: Guid(8a3bec60cf0f01d47a78fa679023e0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mouseOver.cs using Guid(8a3bec60cf0f01d47a78fa679023e0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60852ba7bf4848980e44b70931dacc2f') in 0.015304 seconds
+  Import took 0.030335 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002371 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.122 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3216 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.1 MB.
+System memory in use after: 156.5 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3897.
+Total: 9.337900 ms (FindLiveObjects: 0.664900 ms CreateObjectMapping: 0.284600 ms MarkObjects: 4.358200 ms  DeleteObjects: 4.027400 ms)
+
